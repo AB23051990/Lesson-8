@@ -20,6 +20,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patterns", "Patterns\Patter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CardStorageClient", "CardStorageClient\CardStorageClient.csproj", "{1670C84B-344D-4763-B21A-D23FD4D33512}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FullSearchSamples", "FullSearchSamples\FullSearchSamples.csproj", "{266049CF-694D-458E-AA36-8FB25ECAAF41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{1670C84B-344D-4763-B21A-D23FD4D33512}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1670C84B-344D-4763-B21A-D23FD4D33512}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1670C84B-344D-4763-B21A-D23FD4D33512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{266049CF-694D-458E-AA36-8FB25ECAAF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266049CF-694D-458E-AA36-8FB25ECAAF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266049CF-694D-458E-AA36-8FB25ECAAF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266049CF-694D-458E-AA36-8FB25ECAAF41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
